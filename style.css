@@ -219,5 +219,9 @@ nav ul li{
 .hero-text h1{
     font-size:36px;
 }
+    .active{
+    color:#2563eb;
+    font-weight:bold;
+}
 
 }
